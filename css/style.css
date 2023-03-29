@@ -1,0 +1,31 @@
+body{
+    background-color:#d0d0d5;
+  }
+  .bold{
+    font-weight:bold;
+  }
+  .div-parent{
+    margin:20px;
+  }
+  
+  ul li{
+    margin-bottom:15px;
+  }
+  #image{
+    max-width:100%;
+    display:block;
+    margin:0 auto;
+    
+  
+  }
+  #img-caption{
+    text-align:center;
+    margin-top:20px;
+  }
+  #img-div{
+   padding:40px;
+    background-color:white;
+  }
+  div h1, div p, h2{
+    text-align:center;
+  }
